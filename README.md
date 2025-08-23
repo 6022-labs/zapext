@@ -1,6 +1,14 @@
-# zap-extensions
+# zapext
 
 Extension helpers for [zap](https://github.com/uber-go/zap).
+
+## Installation
+
+To install this package, use Go modules:
+
+```sh
+go get github.com/6022protocol/zapext
+```
 
 ## Truncated arrays
 
