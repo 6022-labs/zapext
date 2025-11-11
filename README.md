@@ -7,7 +7,7 @@ Extension helpers for [zap](https://github.com/uber-go/zap).
 To install this package, use Go modules:
 
 ```sh
-go get github.com/6022protocol/zapext
+go get github.com/6022-labs/zapext
 ```
 
 ## Truncated arrays

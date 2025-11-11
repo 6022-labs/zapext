@@ -1,4 +1,4 @@
-module github.com/6022protocol/zapext
+module github.com/6022-labs/zapext
 
 go 1.24.3
 
