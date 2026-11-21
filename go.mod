@@ -1,6 +1,6 @@
 module github.com/6022-labs/zapext
 
-go 1.24.3
+go 1.27.4
 
 require (
 	github.com/stretchr/testify v1.8.1
